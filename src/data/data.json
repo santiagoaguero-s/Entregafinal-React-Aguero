@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "titulo": "TEINT IDOLE ULTRA WEAR by Lancome",
+        "descripcion": "Teint Idole Ultra Wear es tu aliada perfecta para afrontar todos los desafíos durante un día intenso y ocupado.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/217859-1200-auto?v=638235652124170000&width=1200&height=auto&aspect=true",
+        "categoria": "Rostro",  
+        "precio": 44000,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "titulo": "N° 1 DE CHANEL BASE DE MAQUILLAJE REVITALIZANTE by Chanel",
+        "descripcion": "Su fórmula protege contra los agresores ambientales, suaviza la piel y brinda comodidad durante todo el día. La piel voluminosa se ve naturalmente más hermosa, día tras día,y la tez adquiere un brillo juvenil.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206558-1200-auto?v=638085775838530000&width=1200&height=auto&aspect=true",
+        "categoria": "Rostro",
+        "precio": 47570,
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "titulo": "PRISME LIBRE PREP & SET GLOW MIST by Givenchy",
+        "descripcion": "Prepara, Fija, Protege y Refresca. Una bruma natural y refrescante 4 en1 que prepara la piel, fija el maquillaje y aporta un brillo protectorgracias a la protección SPF 45 PA. ",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206788-1200-auto?v=638085777506700000&width=1200&height=auto&aspect=true",
+        "categoria": "Rostro",
+        "precio": 39600,
+        "stock": 11
+    },
+    {
+        "id": 4,
+        "titulo": "THE SMOOTHER PERFECTING PRIMER + FINISHER by Estee Lauder",
+        "descripcion": "Prepara tu piel para la aplicación de maquillaje definitiva. Con una infusión de esencia de albaricoque que suaviza la piel, esta prebase ligera perfecciona ópticamente la piel, difuminando la apariencia de los poros y las imperfecciones. Deja la piel con una textura suave y uniforme.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204000-800-auto?v=638085757347330000&width=800&height=auto&aspect=true",
+        "categoria": "Rostro",
+        "precio":58290 ,
+        "stock": 10
+    },
+    
+    {
+        "id": 5,
+        "titulo": "SQUIRT PLUMPING GLOSS STIC by MAC",
+        "descripcion": "¡Glossy, juicy, plumpy, baby! Consigue ese brillo voluminoso que tanto te gusta de It-gloss, ahora en nuevos y atrevidos tonos que rellenan los labios con un jugoso y brillante color en barra.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/222057-800-auto?v=638327237142530000&width=800&height=auto&aspect=true",
+        "categoria": "Labios",
+        "precio": 36900,
+        "stock": 18
+    },
+    {
+        "id": 6,
+        "titulo": "ROUGE COCO BLOOM by Chanel",
+        "descripcion": "La primera barra de labios hidratante y rellenadora de CHANEL que combina un brillo y una intensidad de larga duración en una fórmula patentada inédita. ",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206303-1200-auto?v=638085774004570000&width=1200&height=auto&aspect=true",
+        "categoria": "Labios",
+        "precio": 38690,
+        "stock": 23
+    },
+    {
+        "id": 7,
+        "titulo": "MACSTACK WATERPROOF MASCARA by MAC",
+        "descripcion": "La máscara de pestañas M·A·C StackWaterproof, resistente a los grumos y de aplicación continua, teproporciona un volumen personalizable que desafía a la gravedad,junto con una extensión y longitud instantáneas con una fórmula a prueba de piscinas y lágrimas",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/222066-800-auto?v=638327237210700000&width=800&height=auto&aspect=true",
+        "categoria": "Ojos",
+        "precio":42340 ,
+        "stock": 12
+    },
+    {
+        "id": 8,
+        "titulo": "MASCARA LASH CLASH by Yves Saint Laurent",
+        "descripcion": "La exclusiva fórmula de Lash Clash brinda volumen e intensidad a tus pestañas durante todo el dia. Ahora la máscara más deseada de YvesSaintLaurent viene en un tono marrón deshinibido. El extracto nutritivodeiris brinda un 200% más de volumen con hasta 24 horas de duración para un color intenso desde la raíz hasta las puntas.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206672-800-auto?v=638085776650130000&width=800&height=auto&aspect=true",
+        "categoria": "Ojos",
+        "precio": 38900,
+        "stock": 16
+    },
+    
+    {
+        "id": 9,
+        "titulo": "TINTED BROW FORTIFIER by Estee Lauder",
+        "descripcion": "Tinta para cejas con fortificador para un mejor crecimiento",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/203752-800-auto?v=638085755617370000&width=800&height=auto&aspect=true",
+        "categoria": "Ojos",
+        "precio": 40190,
+        "stock": 13
+    },
+    {
+        "id": 10,
+        "titulo": "STYLO SOURCILS WATERPROOF by Chanel",
+        "descripcion": "Un lápiz retráctil, fácil de aplicar, para unas cejas impecablemente definidas. Por un lado, una mina biselada para definir la línea de lascejas; y por el otro, un cepillo redondo para disciplinar y difuminar.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204405-1600-auto?v=638085760203930000&width=1600&height=auto&aspect=true",
+        "categoria": "Ojos",
+        "precio": 32500,
+        "stock": 9
+    },
+    {
+        "id": 11,
+        "titulo": "HYPER REAL GLOW PALETTE by MAC",
+        "descripcion": "Esta paleta contiene tres tonos de iluminador para conseguir un resplandor supercargado y hermoso. Mantente siempre bella con este trío de matices rosados. Su textura es irresistiblemente cremosa y se difumina sin esfuerzo, dejando un brillo altamente reflectante, pero suave a la vez.",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/205036-800-auto?v=638085765111330000&width=800&height=auto&aspect=true",
+        "categoria": "Rostro",
+        "precio": 48900,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "POWDER KISS LIPSTICK by MAC",
+        "descripcion": "Labial en barra ultra mate efecto terciopelo, cremoso, hidratante y duradero",
+        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204822-800-auto?v=638085763593670000&width=800&height=auto&aspect=true",
+        "categoria": "Labios",
+        "precio": 41410,
+        "stock": 30
+    }
+  ]
