@@ -1,37 +1,17 @@
-import { getDocs, collection } from "firebase/firestore";
-import { db } from "../config/firebase";
-import { useEffect, useState } from "react";
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyAqsUBpcCNH-YPEmR761CXHU4KcwXrN_F8",
+  authDomain: "argshoesss.firebaseapp.com",
+  projectId: "argshoesss",
+  storageBucket: "argshoesss.appspot.com",
+  messagingSenderId: "800077448470",
+  appId: "1:800077448470:web:c002fee897380766d43c37"
+};
 
-function  LlamadaFirebase(){
-
-
-    const [datosItems, setDatosItems] = useState([]);
-
-    const fbReferencia = collection(db,"productos");
-
-    const obtenerItems = async () =>{
-        const items = await getDocs(fbReferencia);
-        const dataFirebase = items.docs.map(item=> item.data());
-        setDatosItems(dataFirebase);
-    }
-
-    useEffect(()=>{
-        obtenerItems();
-    },[])
-
-    return<div>
-        PRODUCTOS FIREBASE
-        <div>
-            {datosItems.length>0
-            ?datosItems.map(item=>{
-                return(<div>
-                    <h3>{item.titulo}</h3>
-                </div>)
-            })
-            :<div>No hay productos</div>    }
-        </div>
-    </div>
-} 
-
-export default LlamadaFirebase
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);

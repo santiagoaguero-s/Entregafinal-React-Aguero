@@ -1,112 +1,21 @@
 [
-    {
-        "id": 1,
-        "titulo": "TEINT IDOLE ULTRA WEAR by Lancome",
-        "descripcion": "Teint Idole Ultra Wear es tu aliada perfecta para afrontar todos los desafíos durante un día intenso y ocupado.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/217859-1200-auto?v=638235652124170000&width=1200&height=auto&aspect=true",
-        "categoria": "Rostro",  
-        "precio": 44000,
-        "stock": 5
-    },
-    {
-        "id": 2,
-        "titulo": "N° 1 DE CHANEL BASE DE MAQUILLAJE REVITALIZANTE by Chanel",
-        "descripcion": "Su fórmula protege contra los agresores ambientales, suaviza la piel y brinda comodidad durante todo el día. La piel voluminosa se ve naturalmente más hermosa, día tras día,y la tez adquiere un brillo juvenil.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206558-1200-auto?v=638085775838530000&width=1200&height=auto&aspect=true",
-        "categoria": "Rostro",
-        "precio": 47570,
-        "stock": 3
-    },
-    {
-        "id": 3,
-        "titulo": "PRISME LIBRE PREP & SET GLOW MIST by Givenchy",
-        "descripcion": "Prepara, Fija, Protege y Refresca. Una bruma natural y refrescante 4 en1 que prepara la piel, fija el maquillaje y aporta un brillo protectorgracias a la protección SPF 45 PA. ",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206788-1200-auto?v=638085777506700000&width=1200&height=auto&aspect=true",
-        "categoria": "Rostro",
-        "precio": 39600,
-        "stock": 11
-    },
-    {
-        "id": 4,
-        "titulo": "THE SMOOTHER PERFECTING PRIMER + FINISHER by Estee Lauder",
-        "descripcion": "Prepara tu piel para la aplicación de maquillaje definitiva. Con una infusión de esencia de albaricoque que suaviza la piel, esta prebase ligera perfecciona ópticamente la piel, difuminando la apariencia de los poros y las imperfecciones. Deja la piel con una textura suave y uniforme.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204000-800-auto?v=638085757347330000&width=800&height=auto&aspect=true",
-        "categoria": "Rostro",
-        "precio":58290 ,
-        "stock": 10
-    },
-    
-    {
-        "id": 5,
-        "titulo": "SQUIRT PLUMPING GLOSS STIC by MAC",
-        "descripcion": "¡Glossy, juicy, plumpy, baby! Consigue ese brillo voluminoso que tanto te gusta de It-gloss, ahora en nuevos y atrevidos tonos que rellenan los labios con un jugoso y brillante color en barra.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/222057-800-auto?v=638327237142530000&width=800&height=auto&aspect=true",
-        "categoria": "Labios",
-        "precio": 36900,
-        "stock": 18
-    },
-    {
-        "id": 6,
-        "titulo": "ROUGE COCO BLOOM by Chanel",
-        "descripcion": "La primera barra de labios hidratante y rellenadora de CHANEL que combina un brillo y una intensidad de larga duración en una fórmula patentada inédita. ",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206303-1200-auto?v=638085774004570000&width=1200&height=auto&aspect=true",
-        "categoria": "Labios",
-        "precio": 38690,
-        "stock": 23
-    },
-    {
-        "id": 7,
-        "titulo": "MACSTACK WATERPROOF MASCARA by MAC",
-        "descripcion": "La máscara de pestañas M·A·C StackWaterproof, resistente a los grumos y de aplicación continua, teproporciona un volumen personalizable que desafía a la gravedad,junto con una extensión y longitud instantáneas con una fórmula a prueba de piscinas y lágrimas",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/222066-800-auto?v=638327237210700000&width=800&height=auto&aspect=true",
-        "categoria": "Ojos",
-        "precio":42340 ,
-        "stock": 12
-    },
-    {
-        "id": 8,
-        "titulo": "MASCARA LASH CLASH by Yves Saint Laurent",
-        "descripcion": "La exclusiva fórmula de Lash Clash brinda volumen e intensidad a tus pestañas durante todo el dia. Ahora la máscara más deseada de YvesSaintLaurent viene en un tono marrón deshinibido. El extracto nutritivodeiris brinda un 200% más de volumen con hasta 24 horas de duración para un color intenso desde la raíz hasta las puntas.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/206672-800-auto?v=638085776650130000&width=800&height=auto&aspect=true",
-        "categoria": "Ojos",
-        "precio": 38900,
-        "stock": 16
-    },
-    
-    {
-        "id": 9,
-        "titulo": "TINTED BROW FORTIFIER by Estee Lauder",
-        "descripcion": "Tinta para cejas con fortificador para un mejor crecimiento",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/203752-800-auto?v=638085755617370000&width=800&height=auto&aspect=true",
-        "categoria": "Ojos",
-        "precio": 40190,
-        "stock": 13
-    },
-    {
-        "id": 10,
-        "titulo": "STYLO SOURCILS WATERPROOF by Chanel",
-        "descripcion": "Un lápiz retráctil, fácil de aplicar, para unas cejas impecablemente definidas. Por un lado, una mina biselada para definir la línea de lascejas; y por el otro, un cepillo redondo para disciplinar y difuminar.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204405-1600-auto?v=638085760203930000&width=1600&height=auto&aspect=true",
-        "categoria": "Ojos",
-        "precio": 32500,
-        "stock": 9
-    },
-    {
-        "id": 11,
-        "titulo": "HYPER REAL GLOW PALETTE by MAC",
-        "descripcion": "Esta paleta contiene tres tonos de iluminador para conseguir un resplandor supercargado y hermoso. Mantente siempre bella con este trío de matices rosados. Su textura es irresistiblemente cremosa y se difumina sin esfuerzo, dejando un brillo altamente reflectante, pero suave a la vez.",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/205036-800-auto?v=638085765111330000&width=800&height=auto&aspect=true",
-        "categoria": "Rostro",
-        "precio": 48900,
-        "stock": 10
-    },
-    {
-        "id": 12,
-        "titulo": "POWDER KISS LIPSTICK by MAC",
-        "descripcion": "Labial en barra ultra mate efecto terciopelo, cremoso, hidratante y duradero",
-        "imagen": "https://juleriaque.vtexassets.com/arquivos/ids/204822-800-auto?v=638085763593670000&width=800&height=auto&aspect=true",
-        "categoria": "Labios",
-        "precio": 41410,
-        "stock": 30
-    }
-  ]
+    { "id": 1, "marca": "Adidas", "nombre": "Ultra Boost", "precio": 120.99, "genero": "Hombre", "image":"https://essential.vtexassets.com/arquivos/ids/1251668-1200-auto?v=638419261123230000&width=1200&height=auto&aspect=true" },
+    { "id": 2, "marca": "Nike", "nombre": "Air Max 270", "precio": 150.50, "genero": "Mujer", "image": "https://http2.mlstatic.com/D_NQ_NP_611050-MLA73758034150_012024-O.webp" },
+    { "id": 3, "marca": "Adidas", "nombre": "Superstar", "precio": 80.00, "genero": "Hombre", "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e85a8a6600634af58ca0af1d8262b80b_9366/Zapatillas_Superstar_XLG_Negro_ID4656_01_standard.jpg" },
+    { "id": 4, "marca": "Nike", "nombre": "React Element 55", "precio": 110.75, "genero": "Mujer", "image": "https://www.digitalsport.com.ar/files/products/5d56d10cbaf75-475695-500x500.jpg" },
+    { "id": 5, "marca": "Adidas", "nombre": "Nite Jogger", "precio": 95.49, "genero": "Hombre", "image": "https://http2.mlstatic.com/D_NQ_NP_809174-MLA71042460514_082023-O.webp" },
+    { "id": 6, "marca": "Nike", "nombre": "Air Force 1", "precio": 90.25, "genero": "Mujer", "image": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwc865b0a2/products/NI_315115-112/NI_315115-112-1.JPG" },
+    { "id": 7, "marca": "Adidas", "nombre": "Yeezy Boost 350", "precio": 220.00, "genero": "Hombre", "image": "https://www.bimstoreph.com/cdn/shop/products/1_174_2a777543-edea-4314-9ff7-a825ac1bd73e_1024x1024.jpg?v=1635205902" },
+    { "id": 8, "marca": "Nike", "nombre": "Blazer Mid", "precio": 75.80, "genero": "Mujer", "image": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw59308217/products/NI_BQ6806-100/NI_BQ6806-100-1.JPG" },
+    { "id": 9, "marca": "Adidas", "nombre": "Ozweego", "precio": 110.00, "genero": "Hombre", "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d4cde377d04d4b818dd4435d93e1b4fb_9366/Zapatillas_OZWEEGO_Gris_ID9822_01_standard.jpg" },
+    { "id": 10, "marca": "Nike", "nombre": "Air Zoom Pegasus", "precio": 115.30, "genero": "Mujer", "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw6f450293/products/NIDV3854-102/NIDV3854-102-1.JPG" },
+    { "id": 12, "marca": "Nike", "nombre": "Joyride Run Flyknit", "precio": 160.00, "genero": "Mujer", "image": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwdec8cb87/products/NI_AQ2730-011/NI_AQ2730-011-1.JPG" },
+    { "id": 13, "marca": "Adidas", "nombre": "NMD XR1", "precio": 140.75, "genero": "Hombre", "image": "https://www.sneakersmagazine.es/wp-content/uploads/2016/08/adidas-originals-nmd-xr1-white-sneaker-1-768x512.jpg" },
+    { "id": 14, "marca": "Nike", "nombre": "Air Max 97", "precio": 170.99, "genero": "Mujer", "image": "https://www.tripstore.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/9/2/921733-001_0.jpg" },
+    { "id": 15, "marca": "Adidas", "nombre": "Solar Boost", "precio": 130.45, "genero": "Hombre", "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cc34556d2e2742edbd67afc400f417e7_9366/Zapatillas_Solarboost_5_Blanco_GW1962_01_standard.jpg" },
+    { "id": 16, "marca": "Nike", "nombre": "Free RN 5.0", "precio": 99.60, "genero": "Mujer", "image": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/A/Q/AQ1289-003_0_11.jpg" },
+    { "id": 17, "marca": "Adidas", "nombre": "Alphabounce", "precio": 90.80, "genero": "Hombre", "image": "https://www.opensports.com.ar/media/catalog/product/cache/072d5146ae4cbf4250016550f4b98156/H/P/HP6150_0.jpg" },
+    { "id": 18, "marca": "Nike", "nombre": "Epic React Flyknit", "precio": 130.00, "genero": "Mujer", "image": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb4369c56/products/NI_BQ8927-104/NI_BQ8927-104-1.JPG" },
+    { "id": 19, "marca": "Adidas", "nombre": "Terrex Swift R2 GTX", "precio": 150.25, "genero": "Hombre", "image": "https://media2.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/1/0/100010cm7487001-1.jpg" },
+    { "id": 20, "marca": "Nike", "nombre": "Air VaporMax", "precio": 190.30, "genero": "Mujer", "image": "https://essential.vtexassets.com/arquivos/ids/1071205-1200-auto?v=638367279762970000&width=1200&height=auto&aspect=true" }
+]

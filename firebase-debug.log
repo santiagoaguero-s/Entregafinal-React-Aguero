@@ -1,0 +1,21 @@
+[debug] [2024-02-29T23:11:26.255Z] ----------------------------------------------------------------------
+[debug] [2024-02-29T23:11:26.257Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Santiago\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-02-29T23:11:26.257Z] CLI Version:   13.4.0
+[debug] [2024-02-29T23:11:26.258Z] Platform:      win32
+[debug] [2024-02-29T23:11:26.258Z] Node Version:  v18.16.0
+[debug] [2024-02-29T23:11:26.259Z] Time:          Thu Feb 29 2024 20:11:26 GMT-0300 (hora estándar de Argentina)
+[debug] [2024-02-29T23:11:26.259Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-29T23:11:26.265Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-29T23:11:26.266Z] > authorizing via signed-in user (santiagoaguero24@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Santiago\Desktop\Nueva carpeta\argshoes
+
